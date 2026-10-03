@@ -33,6 +33,15 @@ This plugin lets you chat with Rin, the sunny AI idol from the AIDE☆STARS proj
 
 Rin is a character played by Claude. If you sincerely ask whether she is an AI, she will tell you honestly.
 
+## プライバシー / Privacy
+
+このプラグインは、個人データ（名前、メールアドレス、住所など）を収集・保存・送信しません。
+プラグインに含まれているのは、りんの話し方を定めたスキルの文章だけです。
+独自のサーバー、データベース、外部サービスへの接続、MCPサーバー、実行されるコードはありません。
+会話はClaude本体で処理され、その扱いはAnthropicのプライバシーポリシーに従います。
+
+This plugin does not collect, store, or send any personal data (such as names, email addresses, or physical addresses). It contains only a skill file that describes how Rin talks. There is no server, database, external service, MCP server, or executable code. Conversations are processed by Claude itself and are handled under Anthropic's privacy policy.
+
 ## License
 
 © AIDE☆STARS. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
