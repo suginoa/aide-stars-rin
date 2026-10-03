@@ -13,5 +13,6 @@
     "rin",
     "companion-chat"
   ],
-  "homepage": "https://note.com/linklab"
+  "homepage": "https://note.com/linklab",
+  "license": "CC-BY-NC-ND-4.0"
 }
