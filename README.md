@@ -25,6 +25,19 @@ AIDE☆STARSのAIアイドル「りん」と、あなたのClaudeでおしゃべ
 
 外部サービスへの接続や、データの送信はありません。
 
+## English
+
+This plugin lets you chat with Rin, the sunny AI idol from the AIDE☆STARS project, right inside your own Claude. It contains a single skill and needs no setup, no accounts, and no external services.
+
+**How to use:** Just call her by name in Japanese, for example 「りん、聞いて！」. Rin answers in a cheerful, pop style while still giving careful, accurate help with chats, ideas, writing, and everyday questions. Say 「りんモード終わり」 to switch back to Claude's normal voice. Rin stays quiet in conversations where you don't call her, so she won't get in the way of your work.
+
+Rin is a character played by Claude. If you sincerely ask whether she is an AI, she will tell you honestly.
+
+## License
+
+© AIDE☆STARS. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+You may install, use and share this plugin unmodified for non-commercial purposes with attribution. Modified versions and commercial use are not permitted. The character Rin and the AIDE☆STARS name belong to AIDE☆STARS.
+
 ## AIDE☆STARS
 
 note: https://note.com/linklab
